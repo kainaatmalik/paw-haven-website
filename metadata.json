@@ -1,0 +1,6 @@
+{
+  "name": "Paw Haven",
+  "description": "A modern, warm, accessible pet adoption platform connecting loving homes with pets in need.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
